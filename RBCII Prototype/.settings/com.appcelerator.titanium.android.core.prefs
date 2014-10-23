@@ -1,0 +1,11 @@
+android/ATTR_MINIFY=true
+android/ATTR_PROJECT_NAME=RBCII Prototype
+android/abi=armeabi-v7a
+android/distribute_path=/Users/royaledev/Desktop
+android/key_password=Royale06
+android/keystore_alias=rbcii
+android/keystore_password=Royale06
+android/keystore_path=/Users/royaledev/Documents/Titanium_Studio_Workspace/RBCII Prototype/Resources/rbciikey
+android/recent_output=/Users/royaledev/Desktop
+android/sdk_version=4.0
+eclipse.preferences.version=1
